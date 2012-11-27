@@ -3,9 +3,5 @@ LICENSE.txt
 README.txt
 demos/
 extras/documentation
-
-
 .DS_Store
 
-languages/
-library/Zend/
