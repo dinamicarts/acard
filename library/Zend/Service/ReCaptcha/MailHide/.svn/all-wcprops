@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/ReCaptcha/MailHide
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/ReCaptcha/MailHide
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/ReCaptcha/MailHide/Exception.php
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/ReCaptcha/MailHide/Exception.php
 END

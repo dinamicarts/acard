@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Pubsubhubbub/Model
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Pubsubhubbub/Model
 END
 ModelAbstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Pubsubhubbub/Model/ModelAbstract.php
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Pubsubhubbub/Model/ModelAbstract.php
 END
 SubscriptionInterface.php
 K 25
 svn:wc:ra_dav:version-url
-V 97
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Pubsubhubbub/Model/SubscriptionInterface.php
+V 102
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Pubsubhubbub/Model/SubscriptionInterface.php
 END
 Subscription.php
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Pubsubhubbub/Model/Subscription.php
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Pubsubhubbub/Model/Subscription.php
 END

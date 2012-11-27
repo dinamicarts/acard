@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Amazon/Authentication
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Amazon/Authentication
 END
 V1.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Amazon/Authentication/V1.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Amazon/Authentication/V1.php
 END
 V2.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Amazon/Authentication/V2.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Amazon/Authentication/V2.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Amazon/Authentication/Exception.php
+V 96
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Amazon/Authentication/Exception.php
 END
 S3.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Amazon/Authentication/S3.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Amazon/Authentication/S3.php
 END

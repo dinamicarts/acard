@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/BaseUserService
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/BaseUserService
 END
 AccountBalance.php
 K 25
 svn:wc:ra_dav:version-url
-V 106
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/BaseUserService/AccountBalance.php
+V 111
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/BaseUserService/AccountBalance.php
 END

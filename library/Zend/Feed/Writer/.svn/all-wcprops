@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer
+V 64
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer
 END
 Deleted.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer/Deleted.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer/Deleted.php
 END
 Source.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer/Source.php
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer/Source.php
 END
 Feed.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer/Feed.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer/Feed.php
 END
 Entry.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer/Entry.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer/Entry.php
 END

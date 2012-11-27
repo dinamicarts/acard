@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/SaveHandler
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/SaveHandler
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/SaveHandler/Interface.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/SaveHandler/Interface.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/SaveHandler/Exception.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/SaveHandler/Exception.php
 END
 DbTable.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/SaveHandler/DbTable.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/SaveHandler/DbTable.php
 END

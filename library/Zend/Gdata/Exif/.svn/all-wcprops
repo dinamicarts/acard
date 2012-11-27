@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif
+V 63
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Exif
 END
 Feed.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Feed.php
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Exif/Feed.php
 END
 Entry.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Entry.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Exif/Entry.php
 END

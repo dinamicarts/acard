@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol
+V 66
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Mail/Protocol
 END
 Smtp.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol/Smtp.php
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Mail/Protocol/Smtp.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol/Exception.php
-END
-Pop3.php
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol/Pop3.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Mail/Protocol/Exception.php
 END
 Abstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol/Abstract.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Mail/Protocol/Abstract.php
+END
+Pop3.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Mail/Protocol/Pop3.php
 END
 Imap.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol/Imap.php
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Mail/Protocol/Imap.php
 END

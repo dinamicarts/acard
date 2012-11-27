@@ -1,71 +1,71 @@
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene
-END
-TermStreamsPriorityQueue.php
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/TermStreamsPriorityQueue.php
+V 66
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene
 END
 FSMAction.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/FSMAction.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/FSMAction.php
+END
+TermStreamsPriorityQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/TermStreamsPriorityQueue.php
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Interface.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Interface.php
 END
 Field.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Field.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Field.php
 END
 Document.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Document.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Document.php
 END
 PriorityQueue.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/PriorityQueue.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/PriorityQueue.php
 END
 MultiSearcher.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/MultiSearcher.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/MultiSearcher.php
 END
 Proxy.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Proxy.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Proxy.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Exception.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Exception.php
 END
 FSM.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/FSM.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/FSM.php
 END
 LockManager.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/LockManager.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/LockManager.php
 END

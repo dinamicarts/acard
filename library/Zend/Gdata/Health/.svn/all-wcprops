@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Health
+V 65
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Health
 END
 ProfileFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Health/ProfileFeed.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Health/ProfileFeed.php
 END
 Query.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Health/Query.php
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Health/Query.php
 END
 ProfileEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Health/ProfileEntry.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Health/ProfileEntry.php
 END
 ProfileListEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Health/ProfileListEntry.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Health/ProfileListEntry.php
 END
 ProfileListFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Health/ProfileListFeed.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Health/ProfileListFeed.php
 END

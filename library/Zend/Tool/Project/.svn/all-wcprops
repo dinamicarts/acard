@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Project
+V 65
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Project
 END
 Profile.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Project/Profile.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Project/Profile.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Project/Exception.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Project/Exception.php
 END

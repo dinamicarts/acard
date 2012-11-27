@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Http
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Http
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 Client
 dir
@@ -35,12 +35,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:02.000000Z
 aba4cbb964451aef4b9fc6d0cc2af9d1
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -69,12 +69,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:02.000000Z
 ebca603a7d2aec5f5924c478a09db76d
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -103,12 +103,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:02.000000Z
 0f0bed98a01607e76235fd2054357f44
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -137,12 +137,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:02.000000Z
 6e0b61a10d4572abac06ead6199b99ef
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -174,12 +174,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:02.000000Z
 7e9d9ec0aaa96fb5ea30833a56e2be54
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -211,12 +211,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:02.000000Z
 48399995b0bbd6368f07d4feadb401ba
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 

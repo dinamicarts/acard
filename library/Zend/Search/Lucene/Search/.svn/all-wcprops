@@ -1,71 +1,71 @@
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search
 END
 QueryParser.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryParser.php
-END
-QueryParserException.php
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryParserException.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryParser.php
 END
 Query.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/Query.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/Query.php
 END
 QueryParserContext.php
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryParserContext.php
+V 96
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryParserContext.php
+END
+QueryParserException.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryParserException.php
 END
 Weight.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/Weight.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/Weight.php
 END
 QueryEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryEntry.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryEntry.php
 END
 QueryHit.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryHit.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryHit.php
 END
 QueryToken.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryToken.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryToken.php
 END
 Similarity.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/Similarity.php
-END
-QueryLexer.php
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryLexer.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/Similarity.php
 END
 BooleanExpressionRecognizer.php
 K 25
 svn:wc:ra_dav:version-url
-V 100
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/BooleanExpressionRecognizer.php
+V 105
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/BooleanExpressionRecognizer.php
+END
+QueryLexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryLexer.php
 END

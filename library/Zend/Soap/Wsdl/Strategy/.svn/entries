@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Soap/Wsdl/Strategy
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Soap/Wsdl/Strategy
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 Abstract.php
 file
@@ -32,12 +32,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:55.000000Z
 4d990590f09812da8d3ed4c493497302
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:55.000000Z
 6b55951deb8e91f7706dad7db9d86e68
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:55.000000Z
 c01c07fee8c129b9274ca9f18a6249e5
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -134,12 +134,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:55.000000Z
 8bd7ad7ffd9ed7b7d30e7bcb0c7357a6
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -168,12 +168,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:55.000000Z
 11f09f18e4b98560b2d4bd86d0891ecc
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -202,12 +202,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:55.000000Z
 9dc662a236d060674918c5affd4bdeaf
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -236,12 +236,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:55.000000Z
 1fc17a6b669faa3dad8f34a56e007034
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 

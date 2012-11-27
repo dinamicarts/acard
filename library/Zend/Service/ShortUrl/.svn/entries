@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Service/ShortUrl
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Service/ShortUrl
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 AbstractShortener.php
 file
@@ -32,12 +32,12 @@ file
 
 
 
-2012-02-22T10:18:15.000000Z
+2012-02-28T19:29:49.000000Z
 71ece874a91a759f97624be858835a36
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2012-02-22T10:18:15.000000Z
+2012-02-28T19:29:49.000000Z
 ca940756ea06ecc0544911c74c48f874
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2012-02-22T10:18:15.000000Z
+2012-02-28T19:29:49.000000Z
 db515615a4881439d5e9ab10833a737b
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -134,12 +134,12 @@ file
 
 
 
-2012-02-22T10:18:15.000000Z
+2012-02-28T19:29:49.000000Z
 a7c1f2f22fcaadead1aea3975e929281
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -168,12 +168,12 @@ file
 
 
 
-2012-02-22T10:18:15.000000Z
+2012-02-28T19:29:49.000000Z
 19953355202e7100569d05eeba596620
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -202,12 +202,12 @@ file
 
 
 
-2012-02-22T10:18:15.000000Z
+2012-02-28T19:29:49.000000Z
 76b6329b8258fd8067fa54452ee80b6b
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -236,12 +236,12 @@ file
 
 
 
-2012-02-22T10:18:15.000000Z
+2012-02-28T19:29:49.000000Z
 76af9ccc01a6f1feec5bdb6382c28de5
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 

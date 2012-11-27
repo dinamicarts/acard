@@ -1,41 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/Adapter
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/Adapter
 END
 Null.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/Adapter/Null.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/Adapter/Null.php
 END
 Array.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/Adapter/Array.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/Adapter/Array.php
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/Adapter/Interface.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/Adapter/Interface.php
 END
 DbSelect.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/Adapter/DbSelect.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/Adapter/DbSelect.php
 END
 DbTableSelect.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/Adapter/DbTableSelect.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/Adapter/DbTableSelect.php
 END
 Iterator.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/Adapter/Iterator.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/Adapter/Iterator.php
 END

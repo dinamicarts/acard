@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Generator
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/XmlRpc/Generator
 END
 XmlWriter.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Generator/XmlWriter.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/XmlRpc/Generator/XmlWriter.php
 END
 DomDocument.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Generator/DomDocument.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/XmlRpc/Generator/DomDocument.php
 END
 GeneratorAbstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Generator/GeneratorAbstract.php
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/XmlRpc/Generator/GeneratorAbstract.php
 END

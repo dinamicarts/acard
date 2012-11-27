@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Ldap/Node/RootDse
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Ldap/Node/RootDse
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 ActiveDirectory.php
 file
@@ -32,12 +32,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:03.000000Z
 da13c5c824fbf77b5c1ef7890abe0a75
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:03.000000Z
 f531e058a871b70af5d789c1e64c6d99
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:03.000000Z
 d2ce91bee964d4f3015713e5276d1dad
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 

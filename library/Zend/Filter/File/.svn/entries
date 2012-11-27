@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Filter/File
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Filter/File
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 Decrypt.php
 file
@@ -32,12 +32,12 @@ file
 
 
 
-2012-02-22T10:18:33.000000Z
+2012-02-28T19:30:41.000000Z
 212477a5f32d3d3bc2f3b6f0391245e7
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2012-02-22T10:18:33.000000Z
+2012-02-28T19:30:41.000000Z
 9a2916357274efabe156adce89515efa
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2012-02-22T10:18:33.000000Z
+2012-02-28T19:30:41.000000Z
 eb9aa885f7251a75406095b3e4f73e1a
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -134,12 +134,12 @@ file
 
 
 
-2012-02-22T10:18:33.000000Z
+2012-02-28T19:30:41.000000Z
 9279721a46ab7d572db37acfca74210f
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -168,12 +168,12 @@ file
 
 
 
-2012-02-22T10:18:33.000000Z
+2012-02-28T19:30:41.000000Z
 9ec8031aae9d8277d70f345628303901
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 

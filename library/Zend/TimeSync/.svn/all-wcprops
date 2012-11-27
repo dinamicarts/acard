@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 56
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/TimeSync
+V 61
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/TimeSync
 END
 Sntp.php
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/TimeSync/Sntp.php
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/TimeSync/Sntp.php
 END
 Protocol.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/TimeSync/Protocol.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/TimeSync/Protocol.php
 END
 Ntp.php
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/TimeSync/Ntp.php
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/TimeSync/Ntp.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/TimeSync/Exception.php
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/TimeSync/Exception.php
 END

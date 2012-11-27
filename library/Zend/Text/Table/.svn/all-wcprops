@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Text/Table
+V 63
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Text/Table
 END
 Column.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Text/Table/Column.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Text/Table/Column.php
 END
 Row.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Text/Table/Row.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Text/Table/Row.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Text/Table/Exception.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Text/Table/Exception.php
 END

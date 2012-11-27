@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Ebay/Finding/Search
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Ebay/Finding/Search
 END
 Result.php
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Ebay/Finding/Search/Result.php
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Ebay/Finding/Search/Result.php
 END
 Item.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Ebay/Finding/Search/Item.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Ebay/Finding/Search/Item.php
 END

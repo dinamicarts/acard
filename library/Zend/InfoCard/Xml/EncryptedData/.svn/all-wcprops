@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/EncryptedData
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/EncryptedData
 END
 Abstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/EncryptedData/Abstract.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/EncryptedData/Abstract.php
 END
 XmlEnc.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/EncryptedData/XmlEnc.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/EncryptedData/XmlEnc.php
 END

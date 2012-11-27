@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/System/Action
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/System/Action
 END
 Delete.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/System/Action/Delete.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/System/Action/Delete.php
 END
 Create.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/System/Action/Create.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/System/Action/Create.php
 END

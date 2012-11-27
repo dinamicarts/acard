@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Client/Response/ContentDecorator
+V 100
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Client/Response/ContentDecorator
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 109
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Client/Response/ContentDecorator/Interface.php
+V 114
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Client/Response/ContentDecorator/Interface.php
 END
 Separator.php
 K 25
 svn:wc:ra_dav:version-url
-V 109
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Client/Response/ContentDecorator/Separator.php
+V 114
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Client/Response/ContentDecorator/Separator.php
 END

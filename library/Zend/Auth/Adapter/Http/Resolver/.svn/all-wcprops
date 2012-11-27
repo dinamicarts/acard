@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/Http/Resolver
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/Http/Resolver
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/Http/Resolver/Interface.php
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/Http/Resolver/Interface.php
 END
 File.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/Http/Resolver/File.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/Http/Resolver/File.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/Http/Resolver/Exception.php
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/Http/Resolver/Exception.php
 END

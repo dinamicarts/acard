@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node
+V 62
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node
 END
 ChildrenIterator.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node/ChildrenIterator.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node/ChildrenIterator.php
 END
 Collection.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node/Collection.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node/Collection.php
 END
 Schema.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node/Schema.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node/Schema.php
 END
 Abstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node/Abstract.php
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node/Abstract.php
 END
 RootDse.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node/RootDse.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node/RootDse.php
 END

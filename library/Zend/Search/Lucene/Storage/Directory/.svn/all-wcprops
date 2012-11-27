@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Storage/Directory
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Storage/Directory
 END
 Filesystem.php
 K 25
 svn:wc:ra_dav:version-url
-V 94
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Storage/Directory/Filesystem.php
+V 99
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Storage/Directory/Filesystem.php
 END

@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Analysis/Analyzer/Common
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Analysis/Analyzer/Common
 END
 TextNum.php
 K 25
 svn:wc:ra_dav:version-url
-V 98
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/TextNum.php
+V 103
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/TextNum.php
 END
 Text.php
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Text.php
+V 100
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Text.php
 END
 Utf8.php
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Utf8.php
+V 100
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Utf8.php
 END
 Utf8Num.php
 K 25
 svn:wc:ra_dav:version-url
-V 98
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Utf8Num.php
+V 103
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Utf8Num.php
 END

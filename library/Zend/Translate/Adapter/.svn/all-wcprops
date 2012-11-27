@@ -1,59 +1,59 @@
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter
 END
 Csv.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter/Csv.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter/Csv.php
 END
 Array.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter/Array.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter/Array.php
 END
 Tbx.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter/Tbx.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter/Tbx.php
 END
 Tmx.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter/Tmx.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter/Tmx.php
 END
 XmlTm.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter/XmlTm.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter/XmlTm.php
 END
 Gettext.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter/Gettext.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter/Gettext.php
 END
 Qt.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter/Qt.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter/Qt.php
 END
 Ini.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter/Ini.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter/Ini.php
 END
 Xliff.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Translate/Adapter/Xliff.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Translate/Adapter/Xliff.php
 END

@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Calendar
+V 67
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Calendar
 END
 EventEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Calendar/EventEntry.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Calendar/EventEntry.php
 END
 EventFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Calendar/EventFeed.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Calendar/EventFeed.php
 END
 ListFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Calendar/ListFeed.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Calendar/ListFeed.php
 END
 EventQuery.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Calendar/EventQuery.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Calendar/EventQuery.php
 END
 ListEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Calendar/ListEntry.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Calendar/ListEntry.php
 END

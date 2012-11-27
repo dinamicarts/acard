@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/ProgressBar
-END
-Exception.php
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/ProgressBar/Exception.php
+V 64
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/ProgressBar
 END
 Adapter.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/ProgressBar/Adapter.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/ProgressBar/Adapter.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/ProgressBar/Exception.php
 END

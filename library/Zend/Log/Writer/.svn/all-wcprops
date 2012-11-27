@@ -1,59 +1,59 @@
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer
-END
-Null.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer/Null.php
-END
-Syslog.php
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer/Syslog.php
+V 63
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer
 END
 Mail.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer/Mail.php
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer/Mail.php
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer/Null.php
+END
+Syslog.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer/Syslog.php
 END
 ZendMonitor.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer/ZendMonitor.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer/ZendMonitor.php
 END
 Mock.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer/Mock.php
-END
-Firebug.php
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer/Firebug.php
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer/Mock.php
 END
 Db.php
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer/Db.php
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer/Db.php
+END
+Firebug.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer/Firebug.php
 END
 Stream.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer/Stream.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer/Stream.php
 END
 Abstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Log/Writer/Abstract.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Log/Writer/Abstract.php
 END

@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 53
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache
+V 58
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache
 END
 Manager.php
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Manager.php
-END
-Exception.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Exception.php
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Manager.php
 END
 Core.php
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Core.php
+V 67
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Core.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Exception.php
 END
 Backend.php
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Backend.php
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Backend.php
 END

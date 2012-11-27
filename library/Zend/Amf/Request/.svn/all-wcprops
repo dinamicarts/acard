@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Request
+V 64
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Request
 END
 Http.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Request/Http.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Request/Http.php
 END

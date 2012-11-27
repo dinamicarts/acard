@@ -1,149 +1,149 @@
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps
-END
-MemberEntry.php
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/MemberEntry.php
-END
-MemberFeed.php
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/MemberFeed.php
+V 64
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps
 END
 EmailListEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/EmailListEntry.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/EmailListEntry.php
 END
 EmailListFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/EmailListFeed.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/EmailListFeed.php
+END
+MemberEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/MemberEntry.php
+END
+MemberFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/MemberFeed.php
 END
 NicknameQuery.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/NicknameQuery.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/NicknameQuery.php
 END
 ServiceException.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/ServiceException.php
-END
-UserQuery.php
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/UserQuery.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/ServiceException.php
 END
 EmailListRecipientFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/EmailListRecipientFeed.php
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/EmailListRecipientFeed.php
 END
 GroupFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/GroupFeed.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/GroupFeed.php
+END
+UserQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/UserQuery.php
 END
 OwnerEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/OwnerEntry.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/OwnerEntry.php
 END
 NicknameEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/NicknameEntry.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/NicknameEntry.php
 END
 UserEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/UserEntry.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/UserEntry.php
 END
 Error.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/Error.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/Error.php
 END
 Query.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/Query.php
-END
-UserFeed.php
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/UserFeed.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/Query.php
 END
 EmailListRecipientQuery.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/EmailListRecipientQuery.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/EmailListRecipientQuery.php
 END
 GroupQuery.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/GroupQuery.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/GroupQuery.php
+END
+UserFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/UserFeed.php
 END
 NicknameFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/NicknameFeed.php
-END
-MemberQuery.php
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/MemberQuery.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/NicknameFeed.php
 END
 EmailListQuery.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/EmailListQuery.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/EmailListQuery.php
+END
+MemberQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/MemberQuery.php
 END
 OwnerFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/OwnerFeed.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/OwnerFeed.php
 END
 EmailListRecipientEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/EmailListRecipientEntry.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/EmailListRecipientEntry.php
 END
 GroupEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/GroupEntry.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/GroupEntry.php
 END
 OwnerQuery.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps/OwnerQuery.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Gapps/OwnerQuery.php
 END

@@ -1,47 +1,47 @@
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Client/Adapter
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Client/Adapter
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Client/Adapter/Interface.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Client/Adapter/Interface.php
 END
 Curl.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Client/Adapter/Curl.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Client/Adapter/Curl.php
 END
 Proxy.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Client/Adapter/Proxy.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Client/Adapter/Proxy.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Client/Adapter/Exception.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Client/Adapter/Exception.php
 END
 Stream.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Client/Adapter/Stream.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Client/Adapter/Stream.php
 END
 Test.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Client/Adapter/Test.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Client/Adapter/Test.php
 END
 Socket.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Client/Adapter/Socket.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Client/Adapter/Socket.php
 END

@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Markup/Renderer/Html
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Markup/Renderer/Html
 END
 Code.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Markup/Renderer/Html/Code.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Markup/Renderer/Html/Code.php
 END
 HtmlAbstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Markup/Renderer/Html/HtmlAbstract.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Markup/Renderer/Html/HtmlAbstract.php
 END
 List.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Markup/Renderer/Html/List.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Markup/Renderer/Html/List.php
 END
 Url.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Markup/Renderer/Html/Url.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Markup/Renderer/Html/Url.php
 END
 Img.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Markup/Renderer/Html/Img.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Markup/Renderer/Html/Img.php
 END

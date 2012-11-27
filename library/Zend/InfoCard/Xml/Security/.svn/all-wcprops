@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/Security
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/Security
 END
 Transform.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/Security/Transform.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/Security/Transform.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/Security/Exception.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/Security/Exception.php
 END

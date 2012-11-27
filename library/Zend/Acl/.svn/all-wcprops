@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 51
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Acl
+V 56
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Acl
 END
 Role.php
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Acl/Role.php
+V 65
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Acl/Role.php
 END
 Resource.php
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Acl/Resource.php
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Acl/Resource.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Acl/Exception.php
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Acl/Exception.php
 END

@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/Security/Transform
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/Security/Transform
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 93
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/Security/Transform/Interface.php
+V 98
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/Security/Transform/Interface.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 93
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/Security/Transform/Exception.php
+V 98
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/Security/Transform/Exception.php
 END
 XmlExcC14N.php
 K 25
 svn:wc:ra_dav:version-url
-V 94
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/Security/Transform/XmlExcC14N.php
+V 99
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/Security/Transform/XmlExcC14N.php
 END
 EnvelopedSignature.php
 K 25
 svn:wc:ra_dav:version-url
-V 102
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/InfoCard/Xml/Security/Transform/EnvelopedSignature.php
+V 107
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/InfoCard/Xml/Security/Transform/EnvelopedSignature.php
 END

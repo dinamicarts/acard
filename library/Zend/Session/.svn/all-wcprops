@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session
+V 60
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session
 END
 Namespace.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/Namespace.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/Namespace.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/Exception.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/Exception.php
 END
 Abstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/Abstract.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/Abstract.php
 END

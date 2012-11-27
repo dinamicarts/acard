@@ -1,41 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
-V 50
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db
+V 55
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db
 END
 Profiler.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Profiler.php
+V 68
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Profiler.php
 END
 Select.php
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Select.php
+V 66
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Select.php
 END
 Table.php
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Table.php
+V 65
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Table.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Exception.php
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Exception.php
 END
 Statement.php
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Statement.php
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Statement.php
 END
 Expr.php
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Expr.php
+V 64
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Expr.php
 END

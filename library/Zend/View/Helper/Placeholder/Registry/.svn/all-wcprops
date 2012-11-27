@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/View/Helper/Placeholder/Registry
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/View/Helper/Placeholder/Registry
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 94
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/View/Helper/Placeholder/Registry/Exception.php
+V 99
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/View/Helper/Placeholder/Registry/Exception.php
 END

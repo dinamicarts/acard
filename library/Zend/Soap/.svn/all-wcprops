@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 52
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap
+V 57
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap
 END
 AutoDiscover.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/AutoDiscover.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/AutoDiscover.php
 END
 Client.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Client.php
+V 68
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Client.php
 END
 Server.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Server.php
+V 68
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Server.php
 END
 Wsdl.php
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Wsdl.php
+V 66
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Wsdl.php
 END

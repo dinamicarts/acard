@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Measure/Flow
+V 65
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Measure/Flow
 END
 Volume.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Measure/Flow/Volume.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Measure/Flow/Volume.php
 END
 Mole.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Measure/Flow/Mole.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Measure/Flow/Mole.php
 END
 Mass.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Measure/Flow/Mass.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Measure/Flow/Mass.php
 END

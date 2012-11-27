@@ -1,41 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Reader
+V 64
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Reader
 END
 EntryInterface.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Reader/EntryInterface.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Reader/EntryInterface.php
 END
 FeedInterface.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Reader/FeedInterface.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Reader/FeedInterface.php
 END
 Collection.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Reader/Collection.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Reader/Collection.php
 END
 FeedAbstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Reader/FeedAbstract.php
-END
-FeedSet.php
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Reader/FeedSet.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Reader/FeedAbstract.php
 END
 EntryAbstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Reader/EntryAbstract.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Reader/EntryAbstract.php
+END
+FeedSet.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Reader/FeedSet.php
 END

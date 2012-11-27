@@ -1,47 +1,47 @@
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/ConferenceCall
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/ConferenceCall
 END
 ConferenceDetail.php
 K 25
 svn:wc:ra_dav:version-url
-V 107
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/ConferenceCall/ConferenceDetail.php
+V 112
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/ConferenceCall/ConferenceDetail.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 100
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/ConferenceCall/Exception.php
+V 105
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/ConferenceCall/Exception.php
 END
 ConferenceAccount.php
 K 25
 svn:wc:ra_dav:version-url
-V 108
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/ConferenceCall/ConferenceAccount.php
-END
-Participant.php
-K 25
-svn:wc:ra_dav:version-url
-V 102
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/ConferenceCall/Participant.php
+V 113
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/ConferenceCall/ConferenceAccount.php
 END
 ConferenceSchedule.php
 K 25
 svn:wc:ra_dav:version-url
-V 109
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/ConferenceCall/ConferenceSchedule.php
+V 114
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/ConferenceCall/ConferenceSchedule.php
+END
+Participant.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/ConferenceCall/Participant.php
 END
 ParticipantDetail.php
 K 25
 svn:wc:ra_dav:version-url
-V 108
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/ConferenceCall/ParticipantDetail.php
+V 113
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/ConferenceCall/ParticipantDetail.php
 END
 ParticipantStatus.php
 K 25
 svn:wc:ra_dav:version-url
-V 108
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/ConferenceCall/ParticipantStatus.php
+V 113
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/ConferenceCall/ParticipantStatus.php
 END

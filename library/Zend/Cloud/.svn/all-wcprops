@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 53
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud
+V 58
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud
 END
 AbstractFactory.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/AbstractFactory.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/AbstractFactory.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/Exception.php
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/Exception.php
 END
 OperationNotAvailableException.php
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/OperationNotAvailableException.php
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/OperationNotAvailableException.php
 END

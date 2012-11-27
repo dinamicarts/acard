@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Text
+V 96
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Text
 END
 CaseInsensitive.php
 K 25
 svn:wc:ra_dav:version-url
-V 111
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Text/CaseInsensitive.php
+V 116
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Analysis/Analyzer/Common/Text/CaseInsensitive.php
 END

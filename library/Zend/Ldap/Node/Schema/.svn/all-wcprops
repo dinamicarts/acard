@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node/Schema
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node/Schema
 END
 ActiveDirectory.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node/Schema/ActiveDirectory.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node/Schema/ActiveDirectory.php
 END
 OpenLdap.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node/Schema/OpenLdap.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node/Schema/OpenLdap.php
 END
 Item.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Ldap/Node/Schema/Item.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Ldap/Node/Schema/Item.php
 END

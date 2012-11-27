@@ -1,47 +1,47 @@
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Value/Messaging
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Value/Messaging
 END
 ArrayCollection.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Value/Messaging/ArrayCollection.php
-END
-AsyncMessage.php
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Value/Messaging/AsyncMessage.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Value/Messaging/ArrayCollection.php
 END
 AcknowledgeMessage.php
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Value/Messaging/AcknowledgeMessage.php
+V 95
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Value/Messaging/AcknowledgeMessage.php
+END
+AsyncMessage.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Value/Messaging/AsyncMessage.php
 END
 CommandMessage.php
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Value/Messaging/CommandMessage.php
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Value/Messaging/CommandMessage.php
 END
 ErrorMessage.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Value/Messaging/ErrorMessage.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Value/Messaging/ErrorMessage.php
 END
 RemotingMessage.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Value/Messaging/RemotingMessage.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Value/Messaging/RemotingMessage.php
 END
 AbstractMessage.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Value/Messaging/AbstractMessage.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Value/Messaging/AbstractMessage.php
 END

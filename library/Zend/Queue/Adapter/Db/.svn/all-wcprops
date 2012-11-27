@@ -1,41 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Db
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Queue/Adapter/Db
 END
 Message.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Db/Message.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Queue/Adapter/Db/Message.php
 END
 mysql.sql
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Db/mysql.sql
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Queue/Adapter/Db/mysql.sql
 END
 postgresql.sql
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Db/postgresql.sql
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Queue/Adapter/Db/postgresql.sql
 END
 sqlsrv.sql
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Db/sqlsrv.sql
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Queue/Adapter/Db/sqlsrv.sql
 END
 queue_sqlite.sql
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Db/queue_sqlite.sql
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Queue/Adapter/Db/queue_sqlite.sql
 END
 Queue.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Db/Queue.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Queue/Adapter/Db/Queue.php
 END

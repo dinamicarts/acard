@@ -1,53 +1,53 @@
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Server/Reflection
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Server/Reflection
 END
 Class.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Server/Reflection/Class.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Server/Reflection/Class.php
 END
 Function.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Server/Reflection/Function.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Server/Reflection/Function.php
 END
 Parameter.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Server/Reflection/Parameter.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Server/Reflection/Parameter.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Server/Reflection/Exception.php
-END
-ReturnValue.php
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Server/Reflection/ReturnValue.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Server/Reflection/Exception.php
 END
 Method.php
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Server/Reflection/Method.php
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Server/Reflection/Method.php
+END
+ReturnValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Server/Reflection/ReturnValue.php
 END
 Node.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Server/Reflection/Node.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Server/Reflection/Node.php
 END
 Prototype.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Server/Reflection/Prototype.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Server/Reflection/Prototype.php
 END

@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Gdata/Health
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Gdata/Health
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 Extension
 dir
@@ -35,10 +35,10 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:07.000000Z
 e1f792c7c77ba14876f7ff6d5881e569
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 has-props
 
@@ -69,10 +69,10 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:07.000000Z
 2df1a9eced867b944b9007658eb45584
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 has-props
 
@@ -103,10 +103,10 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:07.000000Z
 1095e8b53a9d64cb2a31782047dd69b1
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 has-props
 
@@ -137,10 +137,10 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:07.000000Z
 cbc6eb49bd7e7679b43c57f5a0e78a60
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 has-props
 
@@ -171,10 +171,10 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:07.000000Z
 2137f3eaea07b01218b1e75414d7e90a
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 has-props
 

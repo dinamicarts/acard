@@ -1,83 +1,83 @@
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl
 END
 ODGBaseUserService.xsd
 K 25
 svn:wc:ra_dav:version-url
-V 99
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.xsd
-END
-VoiceButlerService.xsd
-K 25
-svn:wc:ra_dav:version-url
-V 99
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.xsd
+V 104
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.xsd
 END
 IPLocation.wsdl
 K 25
 svn:wc:ra_dav:version-url
-V 92
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/IPLocation.wsdl
-END
-TokenService.wsdl
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/TokenService.wsdl
+V 97
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/IPLocation.wsdl
 END
 SmsService.wsdl
 K 25
 svn:wc:ra_dav:version-url
-V 92
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/SmsService.wsdl
+V 97
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/SmsService.wsdl
 END
-VoiceButlerService.wsdl
+TokenService.wsdl
 K 25
 svn:wc:ra_dav:version-url
-V 100
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.wsdl
+V 99
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/TokenService.wsdl
+END
+VoiceButlerService.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.xsd
 END
 IPLocation.xsd
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/IPLocation.xsd
+V 96
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/IPLocation.xsd
+END
+VoiceButlerService.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/VoiceButlerService.wsdl
 END
 SmsValidationUserService.wsdl
 K 25
 svn:wc:ra_dav:version-url
-V 106
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/SmsValidationUserService.wsdl
+V 111
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/SmsValidationUserService.wsdl
 END
 ODGBaseUserService.wsdl
 K 25
 svn:wc:ra_dav:version-url
-V 100
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.wsdl
+V 105
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/ODGBaseUserService.wsdl
 END
 ccsPort.wsdl
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/ccsPort.wsdl
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/ccsPort.wsdl
 END
 localsearch.xsd
 K 25
 svn:wc:ra_dav:version-url
-V 92
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/localsearch.xsd
-END
-localsearch.wsdl
-K 25
-svn:wc:ra_dav:version-url
-V 93
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/localsearch.wsdl
+V 97
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/localsearch.xsd
 END
 ccsPort.xsd
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Wsdl/ccsPort.xsd
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/ccsPort.xsd
+END
+localsearch.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Wsdl/localsearch.wsdl
 END

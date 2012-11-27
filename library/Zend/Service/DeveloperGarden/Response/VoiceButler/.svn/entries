@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Service/DeveloperGarden/Response/VoiceButler
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Service/DeveloperGarden/Response/VoiceButler
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 CallStatus2Response.php
 file
@@ -32,12 +32,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:53.000000Z
 bc7189b2e09199f7fb905d402a858ba4
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:53.000000Z
 4d20d4fc105ea8d85b906f257c9a95d6
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:53.000000Z
 95ce99dfbf07e53f10995037a77d61d5
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -134,12 +134,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:53.000000Z
 472c69ddda75a6ffd4db22c20f0d461f
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -168,12 +168,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:53.000000Z
 eff86e11c0eb5fc1f5f43b5204b7fa74
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -202,12 +202,12 @@ file
 
 
 
-2012-02-22T10:18:17.000000Z
+2012-02-28T19:29:53.000000Z
 a506bf61d4852908d3cfdcb4de481b74
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 

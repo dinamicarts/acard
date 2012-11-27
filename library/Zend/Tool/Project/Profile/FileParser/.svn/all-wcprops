@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Project/Profile/FileParser
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Project/Profile/FileParser
 END
 Xml.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Project/Profile/FileParser/Xml.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Project/Profile/FileParser/Xml.php
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 93
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Project/Profile/FileParser/Interface.php
+V 98
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Project/Profile/FileParser/Interface.php
 END

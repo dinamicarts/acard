@@ -1,41 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Frontend
+V 67
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Frontend
 END
 Capture.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Frontend/Capture.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Frontend/Capture.php
 END
 Class.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Frontend/Class.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Frontend/Class.php
 END
 Function.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Frontend/Function.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Frontend/Function.php
 END
 File.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Frontend/File.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Frontend/File.php
 END
 Page.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Frontend/Page.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Frontend/Page.php
 END
 Output.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cache/Frontend/Output.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cache/Frontend/Output.php
 END

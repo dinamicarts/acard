@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 52
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Rest
+V 57
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Rest
 END
 Route.php
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Rest/Route.php
+V 67
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Rest/Route.php
 END
 Client.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Rest/Client.php
+V 68
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Rest/Client.php
 END
 Controller.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Rest/Controller.php
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Rest/Controller.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Rest/Exception.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Rest/Exception.php
 END
 Server.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Rest/Server.php
+V 68
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Rest/Server.php
 END

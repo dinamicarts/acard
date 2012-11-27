@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Loader/IncludePathLoader
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Loader/IncludePathLoader
 END
 RecursiveFilterIterator.php
 K 25
 svn:wc:ra_dav:version-url
-V 115
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Loader/IncludePathLoader/RecursiveFilterIterator.php
+V 120
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Loader/IncludePathLoader/RecursiveFilterIterator.php
 END

@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Adapter/SimpleDb
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Adapter/SimpleDb
 END
 Query.php
 K 25
 svn:wc:ra_dav:version-url
-V 96
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Adapter/SimpleDb/Query.php
+V 101
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Adapter/SimpleDb/Query.php
 END

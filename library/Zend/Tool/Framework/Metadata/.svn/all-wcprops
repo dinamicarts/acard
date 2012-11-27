@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Metadata
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Metadata
 END
 Tool.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Metadata/Tool.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Metadata/Tool.php
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Metadata/Interface.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Metadata/Interface.php
 END
 Basic.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Metadata/Basic.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Metadata/Basic.php
 END
 Dynamic.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Metadata/Dynamic.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Metadata/Dynamic.php
 END
 Attributable.php
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Metadata/Attributable.php
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/Metadata/Attributable.php
 END

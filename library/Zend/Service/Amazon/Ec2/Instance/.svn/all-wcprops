@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Amazon/Ec2/Instance
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Amazon/Ec2/Instance
 END
 Reserved.php
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Amazon/Ec2/Instance/Reserved.php
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Amazon/Ec2/Instance/Reserved.php
 END
 Windows.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/Amazon/Ec2/Instance/Windows.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/Amazon/Ec2/Instance/Windows.php
 END

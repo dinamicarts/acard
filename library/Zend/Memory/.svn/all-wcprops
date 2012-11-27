@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Memory
+V 59
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Memory
 END
 Manager.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Memory/Manager.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Memory/Manager.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Memory/Exception.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Memory/Exception.php
 END
 AccessController.php
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Memory/AccessController.php
-END
-Value.php
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Memory/Value.php
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Memory/AccessController.php
 END
 Container.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Memory/Container.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Memory/Container.php
+END
+Value.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Memory/Value.php
 END

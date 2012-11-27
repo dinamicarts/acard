@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/Extension
+V 81
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/Extension
 END
 ColCount.php
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/Extension/ColCount.php
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/Extension/ColCount.php
 END
 Custom.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/Extension/Custom.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/Extension/Custom.php
 END
 Cell.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/Extension/Cell.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/Extension/Cell.php
 END
 RowCount.php
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/Extension/RowCount.php
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/Extension/RowCount.php
 END

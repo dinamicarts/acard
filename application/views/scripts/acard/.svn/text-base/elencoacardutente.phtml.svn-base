@@ -1,0 +1,11 @@
+<br /><br />
+<div id="view-content">
+	<table>
+        <tr>
+            <td>N. a/card</td>
+            <td>Cod. Cliente</td>
+            <td>Ragione sociale</td>
+        </tr>
+        <?= $this->partialLoop("/acard/partials/rowAcardsUser.phtml", $this->acards); ?>
+    </table>
+</div>

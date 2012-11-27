@@ -1,41 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
-V 52
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http
+V 57
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http
 END
 CookieJar.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/CookieJar.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/CookieJar.php
 END
 UserAgent.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/UserAgent.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/UserAgent.php
 END
 Client.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Client.php
+V 68
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Client.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Exception.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Exception.php
 END
 Response.php
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Response.php
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Response.php
 END
 Cookie.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/Cookie.php
+V 68
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/Cookie.php
 END

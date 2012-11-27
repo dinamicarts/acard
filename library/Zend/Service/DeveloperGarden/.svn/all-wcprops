@@ -1,65 +1,65 @@
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden
 END
 Credential.php
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Credential.php
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Credential.php
 END
 BaseUserService.php
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/BaseUserService.php
+V 96
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/BaseUserService.php
 END
 ConferenceCall.php
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/ConferenceCall.php
-END
-SecurityTokenServer.php
-K 25
-svn:wc:ra_dav:version-url
 V 95
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/SecurityTokenServer.php
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/ConferenceCall.php
 END
 IpLocation.php
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/IpLocation.php
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/IpLocation.php
+END
+SecurityTokenServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/SecurityTokenServer.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Exception.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/Exception.php
 END
 VoiceCall.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/VoiceCall.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/VoiceCall.php
 END
 SendSms.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/SendSms.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/SendSms.php
 END
 SmsValidation.php
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/SmsValidation.php
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/SmsValidation.php
 END
 LocalSearch.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/LocalSearch.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Service/DeveloperGarden/LocalSearch.php
 END

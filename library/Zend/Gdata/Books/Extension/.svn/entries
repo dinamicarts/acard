@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Gdata/Books/Extension
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Gdata/Books/Extension
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 AnnotationLink.php
 file
@@ -32,12 +32,12 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:09.000000Z
 152deeb026899d5fb76f3f21b11902f4
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:09.000000Z
 fb4f6a61bb7db1f93b5fea127815e89a
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -100,12 +100,12 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:09.000000Z
 9abb3ea02c205fe5380b8c47e8cc7df2
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -134,12 +134,12 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:09.000000Z
 382efd63a23f226c4d8cdfb7896ed9f5
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -168,12 +168,12 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:09.000000Z
 b513f56a39fe2ff6e920d08ecbff2f7d
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -202,12 +202,12 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:09.000000Z
 46ed8a7ba464fc1f2637006971618e6e
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -236,12 +236,12 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:09.000000Z
 faed6e15eb1cf93fe7b7fbed0998d44b
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -270,12 +270,12 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:09.000000Z
 3296487eea5e76b84e2863d1150a90c6
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -304,12 +304,12 @@ file
 
 
 
-2012-02-22T10:18:22.000000Z
+2012-02-28T19:30:09.000000Z
 e791d0b807d3ea2d5eae713e65e03660
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 

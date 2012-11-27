@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer/Extension/DublinCore/Renderer
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer/Extension/DublinCore/Renderer
 END
 Feed.php
 K 25
 svn:wc:ra_dav:version-url
-V 98
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer/Extension/DublinCore/Renderer/Feed.php
+V 103
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer/Extension/DublinCore/Renderer/Feed.php
 END
 Entry.php
 K 25
 svn:wc:ra_dav:version-url
-V 99
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer/Extension/DublinCore/Renderer/Entry.php
+V 104
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer/Extension/DublinCore/Renderer/Entry.php
 END

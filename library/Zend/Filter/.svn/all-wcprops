@@ -1,167 +1,167 @@
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter
+V 59
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter
 END
 StringToUpper.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/StringToUpper.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/StringToUpper.php
 END
 StripNewlines.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/StripNewlines.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/StripNewlines.php
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Interface.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Interface.php
 END
 Alnum.php
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Alnum.php
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Alnum.php
 END
 BaseName.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/BaseName.php
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/BaseName.php
 END
 Alpha.php
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Alpha.php
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Alpha.php
 END
 Compress.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Compress.php
-END
-RealPath.php
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/RealPath.php
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Compress.php
 END
 Decompress.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Decompress.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Decompress.php
+END
+RealPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/RealPath.php
 END
 Callback.php
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Callback.php
+V 72
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Callback.php
 END
 Encrypt.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Encrypt.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Encrypt.php
 END
 Digits.php
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Digits.php
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Digits.php
 END
 Null.php
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Null.php
+V 68
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Null.php
 END
 Boolean.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Boolean.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Boolean.php
 END
 NormalizedToLocalized.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/NormalizedToLocalized.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/NormalizedToLocalized.php
 END
 Input.php
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Input.php
+V 69
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Input.php
 END
 HtmlEntities.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/HtmlEntities.php
-END
-LocalizedToNormalized.php
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/LocalizedToNormalized.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/HtmlEntities.php
 END
 Decrypt.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Decrypt.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Decrypt.php
 END
 Dir.php
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Dir.php
+V 67
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Dir.php
+END
+LocalizedToNormalized.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/LocalizedToNormalized.php
 END
 Inflector.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Inflector.php
-END
-Int.php
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Int.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Inflector.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/Exception.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Exception.php
+END
+Int.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/Int.php
 END
 PregReplace.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/PregReplace.php
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/PregReplace.php
 END
 StripTags.php
 K 25
 svn:wc:ra_dav:version-url
-V 68
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/StripTags.php
+V 73
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/StripTags.php
 END
 StringTrim.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/StringTrim.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/StringTrim.php
 END
 StringToLower.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Filter/StringToLower.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Filter/StringToLower.php
 END

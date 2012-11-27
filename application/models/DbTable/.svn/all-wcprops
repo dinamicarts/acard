@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dinamicarts_acard/!svn/ver/2/acard/application/models/DbTable
+END
+Users.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/application/models/DbTable/Users.php
+END
+Configpunti.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/application/models/DbTable/Configpunti.php
+END
+Userstmp.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/application/models/DbTable/Userstmp.php
+END
+Acard.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/application/models/DbTable/Acard.php
+END
+Transaz.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/application/models/DbTable/Transaz.php
+END
+Parametri.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/application/models/DbTable/Parametri.php
+END

@@ -1,35 +1,35 @@
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/Weight
+V 80
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/Weight
 END
 Boolean.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/Weight/Boolean.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/Weight/Boolean.php
 END
 Phrase.php
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/Weight/Phrase.php
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/Weight/Phrase.php
 END
 Term.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/Weight/Term.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/Weight/Term.php
 END
 Empty.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/Weight/Empty.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/Weight/Empty.php
 END
 MultiTerm.php
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/Weight/MultiTerm.php
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/Weight/MultiTerm.php
 END

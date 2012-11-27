@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator
+V 62
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator
 END
 SerializableLimitIterator.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/SerializableLimitIterator.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/SerializableLimitIterator.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/Exception.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/Exception.php
 END
 AdapterAggregate.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Paginator/AdapterAggregate.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Paginator/AdapterAggregate.php
 END

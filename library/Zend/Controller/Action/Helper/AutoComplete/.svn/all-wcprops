@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Controller/Action/Helper/AutoComplete
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Controller/Action/Helper/AutoComplete
 END
 Abstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 98
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Controller/Action/Helper/AutoComplete/Abstract.php
+V 103
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Controller/Action/Helper/AutoComplete/Abstract.php
 END

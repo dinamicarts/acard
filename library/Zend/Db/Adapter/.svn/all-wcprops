@@ -1,41 +1,41 @@
 K 25
 svn:wc:ra_dav:version-url
-V 58
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Adapter
+V 63
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Adapter
 END
 Mysqli.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Adapter/Mysqli.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Adapter/Mysqli.php
 END
 Sqlsrv.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Adapter/Sqlsrv.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Adapter/Sqlsrv.php
 END
 Oracle.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Adapter/Oracle.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Adapter/Oracle.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Adapter/Exception.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Adapter/Exception.php
 END
 Abstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Adapter/Abstract.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Adapter/Abstract.php
 END
 Db2.php
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Db/Adapter/Db2.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Db/Adapter/Db2.php
 END

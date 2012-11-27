@@ -1,47 +1,47 @@
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService
 END
 DocumentSet.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/DocumentSet.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/DocumentSet.php
 END
 QueryAdapter.php
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/QueryAdapter.php
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/QueryAdapter.php
 END
 Query.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Query.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Query.php
 END
 Factory.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Factory.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Factory.php
 END
 Document.php
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Document.php
-END
-Exception.php
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Exception.php
+V 87
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Document.php
 END
 Adapter.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Adapter.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Adapter.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Exception.php
 END

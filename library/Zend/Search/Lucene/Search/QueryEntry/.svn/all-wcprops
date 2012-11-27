@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryEntry
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryEntry
 END
 Subquery.php
 K 25
 svn:wc:ra_dav:version-url
-V 92
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryEntry/Subquery.php
+V 97
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryEntry/Subquery.php
 END
 Phrase.php
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryEntry/Phrase.php
+V 95
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryEntry/Phrase.php
 END
 Term.php
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Search/Lucene/Search/QueryEntry/Term.php
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Search/Lucene/Search/QueryEntry/Term.php
 END

@@ -1,71 +1,71 @@
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets
-END
-SpreadsheetEntry.php
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/SpreadsheetEntry.php
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets
 END
 CellQuery.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/CellQuery.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/CellQuery.php
 END
-SpreadsheetFeed.php
+SpreadsheetEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/SpreadsheetFeed.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/SpreadsheetEntry.php
 END
 ListQuery.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/ListQuery.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/ListQuery.php
+END
+SpreadsheetFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/SpreadsheetFeed.php
 END
 ListFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/ListFeed.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/ListFeed.php
 END
 WorksheetFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/WorksheetFeed.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/WorksheetFeed.php
 END
 DocumentQuery.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/DocumentQuery.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/DocumentQuery.php
 END
 CellEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/CellEntry.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/CellEntry.php
 END
 CellFeed.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/CellFeed.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/CellFeed.php
 END
 ListEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/ListEntry.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/ListEntry.php
 END
 WorksheetEntry.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets/WorksheetEntry.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Spreadsheets/WorksheetEntry.php
 END

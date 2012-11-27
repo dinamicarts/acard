@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 56
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Wildfire
+V 61
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Wildfire
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Wildfire/Exception.php
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Wildfire/Exception.php
 END

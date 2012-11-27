@@ -1,53 +1,53 @@
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter
+V 65
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter
 END
 Ldap.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/Ldap.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/Ldap.php
 END
 Http.php
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/Http.php
+V 74
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/Http.php
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/Interface.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/Interface.php
 END
 InfoCard.php
 K 25
 svn:wc:ra_dav:version-url
-V 73
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/InfoCard.php
+V 78
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/InfoCard.php
 END
 Exception.php
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/Exception.php
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/Exception.php
 END
 DbTable.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/DbTable.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/DbTable.php
 END
 Digest.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/Digest.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/Digest.php
 END
 OpenId.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Auth/Adapter/OpenId.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Auth/Adapter/OpenId.php
 END

@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Amf/Value/Messaging
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Amf/Value/Messaging
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 AbstractMessage.php
 file
@@ -32,12 +32,12 @@ file
 
 
 
-2012-02-22T10:18:40.000000Z
+2012-02-28T19:30:57.000000Z
 defd09c180203970f5170ac14c803745
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -66,12 +66,12 @@ file
 
 
 
-2012-02-22T10:18:40.000000Z
+2012-02-28T19:30:57.000000Z
 13a1062751452ec3501dab1cb7ea676d
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -100,10 +100,10 @@ file
 
 
 
-2012-02-22T10:18:40.000000Z
+2012-02-28T19:30:57.000000Z
 2b0efc8bab1ef7298d66e4eef5c35a6a
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 has-props
 
@@ -134,12 +134,12 @@ file
 
 
 
-2012-02-22T10:18:40.000000Z
+2012-02-28T19:30:57.000000Z
 80ed392f09b0ff4ef92b15635db7deca
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -168,12 +168,12 @@ file
 
 
 
-2012-02-22T10:18:40.000000Z
+2012-02-28T19:30:57.000000Z
 e64489b1621184907bb5210b15cf628e
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -202,12 +202,12 @@ file
 
 
 
-2012-02-22T10:18:40.000000Z
+2012-02-28T19:30:57.000000Z
 f37cf8c20a79ff71834baf761ec81bdd
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -236,12 +236,12 @@ file
 
 
 
-2012-02-22T10:18:40.000000Z
+2012-02-28T19:30:57.000000Z
 10551cf752d3d3dabb5536a3ccd155f4
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 

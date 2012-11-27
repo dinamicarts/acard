@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer/Extension/Threading/Renderer
+V 93
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer/Extension/Threading/Renderer
 END
 Entry.php
 K 25
 svn:wc:ra_dav:version-url
-V 98
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Feed/Writer/Extension/Threading/Renderer/Entry.php
+V 103
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Feed/Writer/Extension/Threading/Renderer/Entry.php
 END

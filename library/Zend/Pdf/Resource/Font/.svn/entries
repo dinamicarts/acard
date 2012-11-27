@@ -1,14 +1,14 @@
-9
+10
 
 dir
-35
-https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Pdf/Resource/Font
-https://subversion.assembla.com/svn/dinamicarts
+2
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard/acard/library/Zend/Pdf/Resource/Font
+https://dinamicarts.unfuddle.com/svn/dinamicarts_acard
 
 
 
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
 
 
@@ -24,7 +24,7 @@ svn:special svn:externals svn:needs-lock
 
 
 
-11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+89ac42c0-ef00-4768-bae2-37bf957e9ba7
 
 CidFont
 dir
@@ -35,12 +35,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:01.000000Z
 5f25591a66aa448c6963261da7c9fdb4
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -69,12 +69,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:01.000000Z
 051937f3f0f2ad759c920bb7eab923fd
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -103,12 +103,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:01.000000Z
 6456e3fccc39d93e4fe51bace876c74b
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -140,12 +140,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:01.000000Z
 f5c780b82a4b71cea2338e9e3302920b
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 
@@ -174,12 +174,12 @@ file
 
 
 
-2012-02-22T10:18:20.000000Z
+2012-02-28T19:30:01.000000Z
 1b58f8f1bdb6d24691489ac0fd26cfd6
-2012-02-20T20:42:29.608064Z
-24
+2012-05-21T19:01:47.383116Z
+2
 ciccio
-has-props
+
 
 
 

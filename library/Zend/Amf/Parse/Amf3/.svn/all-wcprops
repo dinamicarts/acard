@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Parse/Amf3
+V 67
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Parse/Amf3
 END
 Serializer.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Parse/Amf3/Serializer.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Parse/Amf3/Serializer.php
 END
 Deserializer.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Amf/Parse/Amf3/Deserializer.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Amf/Parse/Amf3/Deserializer.php
 END

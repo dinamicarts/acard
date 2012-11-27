@@ -1,167 +1,167 @@
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension
 END
 Timestamp.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Timestamp.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Timestamp.php
 END
 MaxPhotosPerAlbum.php
 K 25
 svn:wc:ra_dav:version-url
-V 92
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/MaxPhotosPerAlbum.php
+V 97
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/MaxPhotosPerAlbum.php
 END
 Version.php
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Version.php
+V 87
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Version.php
 END
 Weight.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Weight.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Weight.php
 END
 Id.php
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Id.php
-END
-Rotation.php
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Rotation.php
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Id.php
 END
 CommentingEnabled.php
 K 25
 svn:wc:ra_dav:version-url
-V 92
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/CommentingEnabled.php
+V 97
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/CommentingEnabled.php
+END
+Rotation.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Rotation.php
 END
 QuotaCurrent.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/QuotaCurrent.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/QuotaCurrent.php
 END
 Size.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Size.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Size.php
 END
 Checksum.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Checksum.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Checksum.php
 END
 QuotaLimit.php
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/QuotaLimit.php
+V 90
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/QuotaLimit.php
 END
 Access.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Access.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Access.php
 END
 Width.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Width.php
-END
-NumPhotos.php
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/NumPhotos.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Width.php
 END
 Height.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Height.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Height.php
+END
+NumPhotos.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/NumPhotos.php
 END
 BytesUsed.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/BytesUsed.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/BytesUsed.php
 END
 Position.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Position.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Position.php
 END
 AlbumId.php
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/AlbumId.php
+V 87
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/AlbumId.php
 END
 Client.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Client.php
-END
-User.php
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/User.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Client.php
 END
 Name.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Name.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Name.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/User.php
 END
 Thumbnail.php
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Thumbnail.php
+V 89
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Thumbnail.php
 END
 PhotoId.php
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/PhotoId.php
+V 87
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/PhotoId.php
 END
 Nickname.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Nickname.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Nickname.php
 END
 NumPhotosRemaining.php
 K 25
 svn:wc:ra_dav:version-url
-V 93
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/NumPhotosRemaining.php
+V 98
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/NumPhotosRemaining.php
 END
 CommentCount.php
 K 25
 svn:wc:ra_dav:version-url
-V 87
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/CommentCount.php
+V 92
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/CommentCount.php
 END
 Location.php
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/Extension/Location.php
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Gdata/Photos/Extension/Location.php
 END

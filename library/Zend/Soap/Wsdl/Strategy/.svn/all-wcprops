@@ -1,47 +1,47 @@
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Wsdl/Strategy
+V 71
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Wsdl/Strategy
 END
 AnyType.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Wsdl/Strategy/AnyType.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Wsdl/Strategy/AnyType.php
 END
 ArrayOfTypeComplex.php
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Wsdl/Strategy/ArrayOfTypeComplex.php
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Wsdl/Strategy/ArrayOfTypeComplex.php
 END
 Composite.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Wsdl/Strategy/Composite.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Wsdl/Strategy/Composite.php
 END
 DefaultComplexType.php
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Wsdl/Strategy/DefaultComplexType.php
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Wsdl/Strategy/DefaultComplexType.php
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 80
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Wsdl/Strategy/Interface.php
+V 85
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Wsdl/Strategy/Interface.php
 END
 ArrayOfTypeSequence.php
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Wsdl/Strategy/ArrayOfTypeSequence.php
+V 95
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Wsdl/Strategy/ArrayOfTypeSequence.php
 END
 Abstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Soap/Wsdl/Strategy/Abstract.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Soap/Wsdl/Strategy/Abstract.php
 END

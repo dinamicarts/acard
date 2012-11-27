@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/Validator
+V 70
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/Validator
 END
 Interface.php
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/Validator/Interface.php
-END
-HttpUserAgent.php
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/Validator/HttpUserAgent.php
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/Validator/Interface.php
 END
 Abstract.php
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Session/Validator/Abstract.php
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/Validator/Abstract.php
+END
+HttpUserAgent.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Session/Validator/HttpUserAgent.php
 END

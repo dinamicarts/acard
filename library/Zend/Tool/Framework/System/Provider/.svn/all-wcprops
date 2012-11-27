@@ -1,29 +1,29 @@
 K 25
 svn:wc:ra_dav:version-url
-V 78
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/System/Provider
+V 83
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/System/Provider
 END
 Phpinfo.php
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/System/Provider/Phpinfo.php
+V 95
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/System/Provider/Phpinfo.php
 END
 Version.php
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/System/Provider/Version.php
+V 95
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/System/Provider/Version.php
 END
 Manifest.php
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/System/Provider/Manifest.php
+V 96
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/System/Provider/Manifest.php
 END
 Config.php
 K 25
 svn:wc:ra_dav:version-url
-V 89
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/System/Provider/Config.php
+V 94
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Tool/Framework/System/Provider/Config.php
 END

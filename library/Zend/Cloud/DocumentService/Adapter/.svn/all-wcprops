@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 77
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Adapter
+V 82
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Adapter
 END
 WindowsAzure.php
 K 25
 svn:wc:ra_dav:version-url
-V 94
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Adapter/WindowsAzure.php
+V 99
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Adapter/WindowsAzure.php
 END
 AbstractAdapter.php
 K 25
 svn:wc:ra_dav:version-url
-V 97
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Adapter/AbstractAdapter.php
+V 102
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Adapter/AbstractAdapter.php
 END
 SimpleDb.php
 K 25
 svn:wc:ra_dav:version-url
-V 90
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Cloud/DocumentService/Adapter/SimpleDb.php
+V 95
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Cloud/DocumentService/Adapter/SimpleDb.php
 END

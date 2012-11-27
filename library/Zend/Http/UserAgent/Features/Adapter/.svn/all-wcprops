@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/UserAgent/Features/Adapter
+V 84
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/UserAgent/Features/Adapter
 END
 TeraWurfl.php
 K 25
 svn:wc:ra_dav:version-url
-V 93
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/UserAgent/Features/Adapter/TeraWurfl.php
+V 98
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/UserAgent/Features/Adapter/TeraWurfl.php
 END
 WurflApi.php
 K 25
 svn:wc:ra_dav:version-url
-V 92
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/UserAgent/Features/Adapter/WurflApi.php
+V 97
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/UserAgent/Features/Adapter/WurflApi.php
 END
 DeviceAtlas.php
 K 25
 svn:wc:ra_dav:version-url
-V 95
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Http/UserAgent/Features/Adapter/DeviceAtlas.php
+V 100
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Http/UserAgent/Features/Adapter/DeviceAtlas.php
 END

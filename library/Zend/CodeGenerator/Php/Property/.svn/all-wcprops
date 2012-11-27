@@ -1,11 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/CodeGenerator/Php/Property
+V 79
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/CodeGenerator/Php/Property
 END
 DefaultValue.php
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/CodeGenerator/Php/Property/DefaultValue.php
+V 96
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/CodeGenerator/Php/Property/DefaultValue.php
 END

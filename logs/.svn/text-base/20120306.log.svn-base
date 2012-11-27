@@ -1,0 +1,330 @@
+2012-03-06T20:49:55+01:00 INFO (6): *** (UpdateDBToCurrentVersion) Inizio aggiornamento database a versione 2
+2012-03-06T20:49:55+01:00 INFO (6): - query: ALTER TABLE `users` DROP `username`
+2012-03-06T20:49:55+01:00 INFO (6): - query: TRUNCATE TABLE `users`
+2012-03-06T20:49:55+01:00 INFO (6): - query: ALTER TABLE  `users` ADD UNIQUE (`email`)
+2012-03-06T20:49:55+01:00 INFO (6): - query: INSERT INTO `users` (id,pwd,ragionesociale,email,cellulare,role) VALUES(1, 'd0f717645f60d8fec8859c27622666cf', 'Ungaro Gianluca', 'info@gianlucaungaro.it','3472235654', 'admin')
+2012-03-06T20:49:55+01:00 INFO (6): - query: INSERT INTO `users` (id,pwd,ragionesociale,email,cellulare,role) VALUES(2, 'd0f717645f60d8fec8859c27622666cf', 'Ciccio', 'gungaro@solari.it', '348999999999999', 'superadmin')
+2012-03-06T20:49:55+01:00 INFO (6): *** (UpdateDBToCurrentVersion) Database aggiornato alla versione 2
+2012-03-06T21:02:30+01:00 INFO (6): regutenteAction: Richiesta registrazione: Array
+(
+    [acard] => 51000000075920
+    [cognomenome] => Monai Nadia
+    [email] => ciccio@upngo.it
+    [confirmemail] => ciccio@upngo.it
+    [password] => Ne37lf
+    [confirmpassword] => Ne37lf
+    [cellulare] => 3472235654
+    [foo] => Array
+        (
+            [id] => 953f55e7308b3bba0cc1b68ba326efb1
+            [input] => xehiby
+        )
+
+)
+
+2012-03-06T21:02:30+01:00 INFO (6): Registrazione in attesa di confema: Array
+(
+    [k] => mH4cK6oK7mT7nZ8hY1
+    [pwd] => d0f717645f60d8fec8859c27622666cf
+    [ragionesociale] => Monai Nadia
+    [email] => ciccio@upngo.it
+    [ncard] => 51000000075920
+    [cellulare] => 3472235654
+    [datacreazione] => 2012-03-06 21:02:30
+)
+
+2012-03-06T21:02:30+01:00 INFO (6): InviaMailRegistrazioneUtente: Mail inviata a ciccio@upngo.it
+2012-03-06T21:33:15+01:00 INFO (6): InviaMailRegistrazioneUtente: Mail inviata a ciccio@upngo.it
+2012-03-06T21:35:28+01:00 INFO (6): InviaMailRegistrazioneUtente: Mail inviata a ciccio@upngo.it
+2012-03-06T21:35:54+01:00 INFO (6): (AssociaAcard) Associazione acard '51000000075920' all'utente con id: 3
+2012-03-06T21:35:54+01:00 INFO (6): (AttivaAccount) Account 'ciccio@upngo.it' attivato: 
+2012-03-06T21:49:39+01:00 INFO (6): (EraseAllOnRemote) Invio comando di svuotamento DB a sito pubblico  (http://acard.artenisport.it)
+2012-03-06T21:49:40+01:00 INFO (6): (EraseAllOnRemote) Proc. di cancellazione dati dal sito pubblico (http://acard.artenisport.it) terminata correttamente
+2012-03-06T21:49:40+01:00 INFO (6): (RisincronizzaDatiRemoti) Cancellati dati da DB remoto
+2012-03-06T21:49:51+01:00 INFO (6): (RisincronizzaDatiRemoti) Rimosso il valore 'sync' da db locale
+2012-03-06T21:49:51+01:00 INFO (6): (RisincronizzaDatiRemoti) Reinvio dei dati a remoto 
+2012-03-06T21:49:51+01:00 INFO (6): (exportallAction) Inizio esportazione dati su sito pubblico  (http://acard.artenisport.it)
+2012-03-06T21:49:51+01:00 INFO (6): (exportallAction) Esporto Utenti 
+2012-03-06T21:49:51+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => users= 3/3
+2012-03-06T21:49:52+01:00 ERR (3): (ExportGroup) Si &egrave; verificato un errore durante l'esportazione parziale dei dati. Response: 
+2012-03-06T21:49:52+01:00 INFO (6): (exportallAction) Esporto a/card 
+2012-03-06T21:49:52+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 50/2845
+2012-03-06T21:49:53+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:49:53+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 100/2845
+2012-03-06T21:49:54+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:49:54+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 150/2845
+2012-03-06T21:49:55+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:49:55+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 200/2845
+2012-03-06T21:49:56+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:49:56+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 250/2845
+2012-03-06T21:49:56+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:49:56+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 300/2845
+2012-03-06T21:49:59+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:49:59+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 350/2845
+2012-03-06T21:50:00+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:00+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 400/2845
+2012-03-06T21:50:01+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:01+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 450/2845
+2012-03-06T21:50:02+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:02+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 500/2845
+2012-03-06T21:50:04+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:04+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 550/2845
+2012-03-06T21:50:04+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:04+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 600/2845
+2012-03-06T21:50:05+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:05+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 650/2845
+2012-03-06T21:50:05+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:05+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 700/2845
+2012-03-06T21:50:06+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:06+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 750/2845
+2012-03-06T21:50:06+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:06+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 800/2845
+2012-03-06T21:50:07+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:07+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 850/2845
+2012-03-06T21:50:08+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:08+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 900/2845
+2012-03-06T21:50:08+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:08+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 950/2845
+2012-03-06T21:50:09+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:09+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1000/2845
+2012-03-06T21:50:09+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:09+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1050/2845
+2012-03-06T21:50:10+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:10+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1100/2845
+2012-03-06T21:50:10+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:10+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1150/2845
+2012-03-06T21:50:11+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:11+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1200/2845
+2012-03-06T21:50:12+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:12+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1250/2845
+2012-03-06T21:50:13+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:13+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1300/2845
+2012-03-06T21:50:13+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:13+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1350/2845
+2012-03-06T21:50:14+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:14+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1400/2845
+2012-03-06T21:50:14+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:14+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1450/2845
+2012-03-06T21:50:15+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:15+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1500/2845
+2012-03-06T21:50:15+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:15+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1550/2845
+2012-03-06T21:50:16+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:16+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1600/2845
+2012-03-06T21:50:18+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:18+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1650/2845
+2012-03-06T21:50:18+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:18+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1700/2845
+2012-03-06T21:50:19+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:19+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1750/2845
+2012-03-06T21:50:19+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:19+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1800/2845
+2012-03-06T21:50:20+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:20+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1850/2845
+2012-03-06T21:50:20+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:20+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1900/2845
+2012-03-06T21:50:23+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:23+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 1950/2845
+2012-03-06T21:50:23+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:23+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2000/2845
+2012-03-06T21:50:24+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:24+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2050/2845
+2012-03-06T21:50:25+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:25+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2100/2845
+2012-03-06T21:50:25+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:25+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2150/2845
+2012-03-06T21:50:26+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:26+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2200/2845
+2012-03-06T21:50:26+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:26+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2250/2845
+2012-03-06T21:50:27+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:27+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2300/2845
+2012-03-06T21:50:28+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:28+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2350/2845
+2012-03-06T21:50:28+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:28+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2400/2845
+2012-03-06T21:50:29+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:29+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2450/2845
+2012-03-06T21:50:29+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:29+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2500/2845
+2012-03-06T21:50:30+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:30+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2550/2845
+2012-03-06T21:50:30+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:30+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2600/2845
+2012-03-06T21:50:31+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:31+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2650/2845
+2012-03-06T21:50:32+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:32+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2700/2845
+2012-03-06T21:50:32+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:32+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2750/2845
+2012-03-06T21:50:33+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:33+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2800/2845
+2012-03-06T21:50:34+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:34+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => acard= 2845/2845
+2012-03-06T21:50:34+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:39+01:00 INFO (6): (exportallAction) Esporto Transazioni 
+2012-03-06T21:50:39+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 50/4076
+2012-03-06T21:50:40+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:40+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 100/4076
+2012-03-06T21:50:41+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:41+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 150/4076
+2012-03-06T21:50:41+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:41+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 200/4076
+2012-03-06T21:50:42+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:42+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 250/4076
+2012-03-06T21:50:43+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:43+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 300/4076
+2012-03-06T21:50:44+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:44+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 350/4076
+2012-03-06T21:50:44+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:44+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 400/4076
+2012-03-06T21:50:45+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:45+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 450/4076
+2012-03-06T21:50:46+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:46+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 500/4076
+2012-03-06T21:50:47+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:47+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 550/4076
+2012-03-06T21:50:47+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:47+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 600/4076
+2012-03-06T21:50:48+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:48+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 650/4076
+2012-03-06T21:50:49+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:49+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 700/4076
+2012-03-06T21:50:50+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:50+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 750/4076
+2012-03-06T21:50:50+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:50+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 800/4076
+2012-03-06T21:50:51+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:51+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 850/4076
+2012-03-06T21:50:52+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:52+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 900/4076
+2012-03-06T21:50:53+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:53+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 950/4076
+2012-03-06T21:50:55+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:55+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1000/4076
+2012-03-06T21:50:58+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:58+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1050/4076
+2012-03-06T21:50:59+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:59+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1100/4076
+2012-03-06T21:50:59+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:50:59+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1150/4076
+2012-03-06T21:51:01+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:01+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1200/4076
+2012-03-06T21:51:02+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:02+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1250/4076
+2012-03-06T21:51:03+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:03+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1300/4076
+2012-03-06T21:51:04+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:04+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1350/4076
+2012-03-06T21:51:05+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:05+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1400/4076
+2012-03-06T21:51:07+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:07+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1450/4076
+2012-03-06T21:51:08+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:08+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1500/4076
+2012-03-06T21:51:09+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:09+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1550/4076
+2012-03-06T21:51:10+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:10+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1600/4076
+2012-03-06T21:51:11+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:11+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1650/4076
+2012-03-06T21:51:12+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:12+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1700/4076
+2012-03-06T21:51:13+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:13+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1750/4076
+2012-03-06T21:51:14+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:14+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1800/4076
+2012-03-06T21:51:15+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:15+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1850/4076
+2012-03-06T21:51:16+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:16+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1900/4076
+2012-03-06T21:51:17+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:17+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 1950/4076
+2012-03-06T21:51:17+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:17+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2000/4076
+2012-03-06T21:51:18+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:18+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2050/4076
+2012-03-06T21:51:19+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:19+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2100/4076
+2012-03-06T21:51:20+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:20+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2150/4076
+2012-03-06T21:51:21+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:21+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2200/4076
+2012-03-06T21:51:22+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:22+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2250/4076
+2012-03-06T21:51:23+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:23+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2300/4076
+2012-03-06T21:51:23+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:23+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2350/4076
+2012-03-06T21:51:24+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:24+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2400/4076
+2012-03-06T21:51:25+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:25+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2450/4076
+2012-03-06T21:51:26+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:26+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2500/4076
+2012-03-06T21:51:27+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:27+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2550/4076
+2012-03-06T21:51:28+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:28+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2600/4076
+2012-03-06T21:51:29+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:29+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2650/4076
+2012-03-06T21:51:30+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:30+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2700/4076
+2012-03-06T21:51:30+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:30+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2750/4076
+2012-03-06T21:51:32+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:32+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2800/4076
+2012-03-06T21:51:33+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:33+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2850/4076
+2012-03-06T21:51:34+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:34+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2900/4076
+2012-03-06T21:51:35+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:35+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 2950/4076
+2012-03-06T21:51:36+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:36+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3000/4076
+2012-03-06T21:51:37+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:37+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3050/4076
+2012-03-06T21:51:38+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:38+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3100/4076
+2012-03-06T21:51:39+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:39+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3150/4076
+2012-03-06T21:51:40+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:40+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3200/4076
+2012-03-06T21:51:41+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:41+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3250/4076
+2012-03-06T21:51:42+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:42+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3300/4076
+2012-03-06T21:51:44+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:44+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3350/4076
+2012-03-06T21:51:46+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:46+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3400/4076
+2012-03-06T21:51:47+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:47+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3450/4076
+2012-03-06T21:51:48+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:48+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3500/4076
+2012-03-06T21:51:48+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:48+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3550/4076
+2012-03-06T21:51:49+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:49+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3600/4076
+2012-03-06T21:51:50+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:50+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3650/4076
+2012-03-06T21:51:51+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:51+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3700/4076
+2012-03-06T21:51:52+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:52+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3750/4076
+2012-03-06T21:51:52+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:52+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3800/4076
+2012-03-06T21:51:53+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:53+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3850/4076
+2012-03-06T21:51:54+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:54+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3900/4076
+2012-03-06T21:51:55+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:55+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 3950/4076
+2012-03-06T21:51:55+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:55+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 4000/4076
+2012-03-06T21:51:56+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:56+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 4050/4076
+2012-03-06T21:51:57+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:51:57+01:00 INFO (6): (ExportGroup) Post parziale (max=50) dei dati su 'http://acard.artenisport.it/public/import/dataImport' => transaz= 4076/4076
+2012-03-06T21:51:58+01:00 INFO (6): (ExportGroup) Esportazione parziale terminata correttamente
+2012-03-06T21:52:04+01:00 INFO (6): (exportallAction) Fine esportazione dati su sito pubblico  (http://acard.artenisport.it)

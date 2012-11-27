@@ -1,23 +1,23 @@
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Oauth/Token
+V 64
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Oauth/Token
 END
 Request.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Oauth/Token/Request.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Oauth/Token/Request.php
 END
 Access.php
 K 25
 svn:wc:ra_dav:version-url
-V 70
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Oauth/Token/Access.php
+V 75
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Oauth/Token/Access.php
 END
 AuthorizedRequest.php
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Oauth/Token/AuthorizedRequest.php
+V 86
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/Oauth/Token/AuthorizedRequest.php
 END

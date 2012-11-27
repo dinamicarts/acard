@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Request
+V 67
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/XmlRpc/Request
 END
 Http.php
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Request/Http.php
+V 76
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/XmlRpc/Request/Http.php
 END
 Stdin.php
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Request/Stdin.php
+V 77
+/svn/dinamicarts_acard/!svn/ver/2/acard/library/Zend/XmlRpc/Request/Stdin.php
 END
