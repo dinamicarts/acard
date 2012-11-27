@@ -1,0 +1,32 @@
+<?= $this->doctype('XHTML1_STRICT') ?>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html charset=utf-8" ></meta>
+        
+        <? $this->headLink()->appendStylesheet($this->baseUrl()."/css/screen.css", "screen, projection"); ?>
+        <? $this->headLink()->appendStylesheet($this->baseUrl()."/css/ie.css", "screen, projection", "IE"); ?>
+        <? $this->headLink()->appendStylesheet($this->baseUrl()."/css/print.css", "print"); ?>
+        <? $this->headLink()->appendStylesheet($this->baseUrl()."/css/main.css"); ?>
+        <? $this->headScript()->appendFile($this->baseUrl()."/js/jquery-1.7.1.min.js"); ?>
+        <? $this->headScript()->appendFile($this->baseUrl()."/js/utils.js"); ?>
+        <script>
+	        var baseUrl = "<?= $this->baseUrl() ?>";
+        </script>
+        <?= $this->headLink(); ?>
+        <?= $this->headScript() ?>
+        
+    </head>
+    <body style="background:transparent">
+        
+        <div class="header">
+            <div class="topMenu">
+                <?= $this->navigation()->menu(); ?>
+            </div>
+            <div class="messages" id="message"></div>
+            <div class="breadcrumbs"></div>
+        </div>
+        <div>
+            <?php echo $this->layout()->content; ?> 
+        </div>
+    </body>
+</html>

@@ -1,0 +1,102 @@
+<configdata>
+    <nav>
+        <home>
+            <label>Home</label>
+            <controller>index</controller>
+            <action>index</action>
+            <resource>index</resource>
+        </home>
+        
+         <registrazione>
+            <label>Registrazione utente</label>
+            <controller>registrazione</controller>
+            <action>regutente</action>
+            <resource>registrazione</resource>
+        </registrazione>
+        
+        <login>
+            <label>Login</label>
+            <controller>authentication</controller>
+            <action>login</action>
+            <resource>login</resource>
+        </login>
+  
+
+        <acard>
+            <label>a/card</label>
+            <uri></uri>
+            <resource>acard</resource>
+            <pages>
+                <elencoacardutente>
+                    <label>Le mie a/card</label>
+                    <controller>acard</controller>
+                    <action>elencoacardutente</action>
+                </elencoacardutente>
+                <elencomovimentiutente>
+                    <label>I miei movimenti</label>
+                    <controller>acard</controller>
+                    <action>movimentiacard</action>
+                </elencomovimentiutente>
+            </pages>
+        </acard>
+        
+        <admin>
+	        <label>Menu Admin</label>
+            <uri></uri>
+            <resource>menuadmin</resource>
+            <pages>
+	            <elencoutenti>
+                    <label>Elenco utenti</label>
+                    <controller>users</controller>
+                    <action>index</action>
+                </elencoutenti>
+	            <elencoacard>
+                    <label>Elenco a/card (tutte)</label>
+                    <controller>acard</controller>
+                    <action>elenco</action>
+                    <resource>elencoacard</resource>
+                </elencoacard>
+		        <elencomovimenti>
+                    <label>Elenco movimenti (tutti)</label>
+                    <controller>acard</controller>
+                    <action>movimenti</action>
+                </elencomovimenti>
+                
+                <superadmin>
+                	<label>Menu superAdmin</label>
+           			<uri></uri>
+            		<resource>menusuperadmin</resource>
+            		<pages>
+                		<importa>
+               				<label>Importa files</label>
+                  			<controller>acard</controller>
+                   			<action>importa</action>          
+                		</importa>
+                		<resync>
+               	    		<label>Resync dati</label>
+                    		<controller>acard</controller>
+                    		<action>resync</action>
+                		</resync>
+                		<emptyall>
+                    		<label>Svuota DB (dati importati)</label>
+                    		<controller>acard</controller>   
+                    		<action>emptyAll</action>
+                		</emptyall>
+                	</pages>
+                </superadmin>
+                
+                
+            </pages>
+        </admin>
+        
+        
+   
+        
+         <logout>
+            <label>Logout</label>
+            <controller>authentication</controller>
+            <action>logout</action>
+            <resource>logout</resource>
+        </logout>
+    </nav>
+</configdata>

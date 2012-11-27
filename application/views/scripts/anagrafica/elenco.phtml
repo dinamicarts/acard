@@ -1,0 +1,13 @@
+<div id="view-content">
+    <table>
+        <tr>
+            <td>Cod. Cliente</td>
+            <td>Ragione Sociale</td>
+            <td>Data nascita</td>
+            <td>Sesso</td>
+            <td>e-mail</td>
+            <td>n. Cell</td>
+        </tr>
+        <?= $this->partialLoop("/acard/partials/rowAnagrafica.phtml", $this->anagrafica); ?>
+    </table>
+</div>

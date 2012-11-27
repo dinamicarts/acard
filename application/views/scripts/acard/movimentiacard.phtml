@@ -1,0 +1,22 @@
+<div id="view-content">
+    <table>
+        <tr>
+            <td>Cod. Cliente</td>
+            <td>Ragione Sociale</td>
+            <td>Data nascita</td>
+            <td>Sesso</td>
+            <td>aCard</td>
+            <td>Punto vendita</td>
+            <td>Cod cassa</td>
+            <td>N. scontrino</td>
+            <td>Dataora acquisto</td>
+            <td>Importo</td>
+            <td>Dataora Transazione</td>
+            <td>Punti Assegnati</td>
+        </tr>
+        <?= $this->partialLoop("/acard/partials/rowTransazUser.phtml", $this->transaz); ?>
+    </table>
+</div>
+<? if($this->saldo!=null) : ?>
+<div>saldo punti: <b><?= $this->saldo?></b></div>
+<? endif ?>
