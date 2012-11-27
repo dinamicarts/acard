@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Loader
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Loader/Interface.php
+END
+IncludePathLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Loader/IncludePathLoader.php
+END
+BasicLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Loader/BasicLoader.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Loader/Abstract.php
+END

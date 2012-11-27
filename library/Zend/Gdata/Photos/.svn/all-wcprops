@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos
+END
+PhotoQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/PhotoQuery.php
+END
+UserEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/UserEntry.php
+END
+TagEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/TagEntry.php
+END
+UserFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/UserFeed.php
+END
+AlbumQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/AlbumQuery.php
+END
+AlbumFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/AlbumFeed.php
+END
+UserQuery.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/UserQuery.php
+END
+PhotoEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/PhotoEntry.php
+END
+PhotoFeed.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/PhotoFeed.php
+END
+AlbumEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/AlbumEntry.php
+END
+CommentEntry.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos/CommentEntry.php
+END

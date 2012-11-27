@@ -1,0 +1,120 @@
+9
+
+dir
+35
+https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Tool/Framework
+https://subversion.assembla.com/svn/dinamicarts
+
+
+
+2012-02-20T20:42:29.608064Z
+24
+ciccio
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+
+Action
+dir
+
+Client
+dir
+
+Exception.php
+file
+
+
+
+
+2012-02-22T10:18:32.000000Z
+5f1e32b4b13e07b3c251309f6612c265
+2012-02-20T20:42:29.608064Z
+24
+ciccio
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1119
+
+Loader
+dir
+
+Manifest
+dir
+
+Metadata
+dir
+
+Provider
+dir
+
+Registry
+dir
+
+Registry.php
+file
+
+
+
+
+2012-02-22T10:18:32.000000Z
+8708dc0fdd03b44769d0d820e89aa777
+2012-02-20T20:42:29.608064Z
+24
+ciccio
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11584
+
+System
+dir
+

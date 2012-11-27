@@ -1,0 +1,117 @@
+9
+
+dir
+35
+https://subversion.assembla.com/svn/dinamicarts/aCard/library/Zend/Service/DeveloperGarden/Request
+https://subversion.assembla.com/svn/dinamicarts
+
+
+
+2012-02-20T20:42:29.608064Z
+24
+ciccio
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+11d01e79-7cc2-4a3f-b2e3-adf3caee5846
+
+BaseUserService
+dir
+
+ConferenceCall
+dir
+
+Exception.php
+file
+
+
+
+
+2012-02-22T10:18:17.000000Z
+df8fc102aafad519bb59bdb302fbe969
+2012-02-20T20:42:29.608064Z
+24
+ciccio
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1279
+
+IpLocation
+dir
+
+LocalSearch
+dir
+
+RequestAbstract.php
+file
+
+
+
+
+2012-02-22T10:18:17.000000Z
+1890052836ccb9b6081f4679ad7ddb1d
+2012-02-20T20:42:29.608064Z
+24
+ciccio
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1973
+
+SendSms
+dir
+
+SmsValidation
+dir
+
+VoiceButler
+dir
+

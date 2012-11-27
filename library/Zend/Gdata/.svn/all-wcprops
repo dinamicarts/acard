@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata
+END
+MediaMimeStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/MediaMimeStream.php
+END
+AuthSub.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/AuthSub.php
+END
+Gbase.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gbase.php
+END
+Gapps.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Gapps.php
+END
+Docs.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Docs.php
+END
+Health.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Health.php
+END
+Feed.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Feed.php
+END
+Calendar.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Calendar.php
+END
+ClientLogin.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/ClientLogin.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Extension.php
+END
+DublinCore.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/DublinCore.php
+END
+App.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/App.php
+END
+Photos.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Photos.php
+END
+YouTube.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/YouTube.php
+END
+Media.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Media.php
+END
+Spreadsheets.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Spreadsheets.php
+END
+MimeBodyString.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/MimeBodyString.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Query.php
+END
+Books.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Books.php
+END
+HttpAdapterStreamingSocket.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/HttpAdapterStreamingSocket.php
+END
+Exif.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif.php
+END
+MimeFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/MimeFile.php
+END
+Geo.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Geo.php
+END
+Entry.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Entry.php
+END
+HttpAdapterStreamingProxy.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/HttpAdapterStreamingProxy.php
+END
+HttpClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/HttpClient.php
+END

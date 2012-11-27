@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension
+END
+Exposure.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/Exposure.php
+END
+ImageUniqueId.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/ImageUniqueId.php
+END
+FStop.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/FStop.php
+END
+Tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/Tags.php
+END
+Model.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/Model.php
+END
+FocalLength.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/FocalLength.php
+END
+Time.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/Time.php
+END
+Make.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/Make.php
+END
+Flash.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/Flash.php
+END
+Distance.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/Distance.php
+END
+Iso.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Gdata/Exif/Extension/Iso.php
+END

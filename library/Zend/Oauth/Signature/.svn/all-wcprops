@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Oauth/Signature
+END
+Hmac.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Oauth/Signature/Hmac.php
+END
+Plaintext.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Oauth/Signature/Plaintext.php
+END
+SignatureAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Oauth/Signature/SignatureAbstract.php
+END
+Rsa.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Oauth/Signature/Rsa.php
+END

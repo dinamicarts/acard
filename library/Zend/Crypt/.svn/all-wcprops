@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Crypt
+END
+Hmac.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Crypt/Hmac.php
+END
+Math.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Crypt/Math.php
+END
+DiffieHellman.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Crypt/DiffieHellman.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Crypt/Exception.php
+END
+Rsa.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Crypt/Rsa.php
+END

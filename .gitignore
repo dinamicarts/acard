@@ -5,3 +5,6 @@ demos/
 extras/documentation
 .DS_Store
 
+
+.buildpath
+

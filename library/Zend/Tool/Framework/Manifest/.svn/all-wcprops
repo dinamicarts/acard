@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest
+END
+MetadataManifestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/MetadataManifestable.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/Interface.php
+END
+Repository.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/Repository.php
+END
+ProviderManifestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/ProviderManifestable.php
+END
+Indexable.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/Indexable.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/Exception.php
+END
+Metadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/Metadata.php
+END
+ActionManifestable.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/ActionManifestable.php
+END
+ProviderMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/ProviderMetadata.php
+END
+ActionMetadata.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Tool/Framework/Manifest/ActionMetadata.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter
+END
+Null.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Null.php
+END
+PlatformJobQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/PlatformJobQueue.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Array.php
+END
+Activemq.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Activemq.php
+END
+AdapterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/AdapterInterface.php
+END
+Db.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Db.php
+END
+AdapterAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/AdapterAbstract.php
+END
+Memcacheq.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Queue/Adapter/Memcacheq.php
+END

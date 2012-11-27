@@ -8,7 +8,7 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
     
     protected function _initLanguage()
     {
-        $localeValue = 'it';
+    	$localeValue = 'it';
 
         $locale = new Zend_Locale($localeValue);
         Zend_Registry::set('Zend_Locale', $locale);
@@ -23,7 +23,7 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
     
     protected function _initAppAutoload()
     {
-        $moduleLoader = new Zend_Application_Module_Autoloader(array(
+    	$moduleLoader = new Zend_Application_Module_Autoloader(array(
             'namespace' => '',
             'basePath' => APPLICATION_PATH
         ));
@@ -45,19 +45,18 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
         $fc->registerPlugin(new Plugin_AccessCheck($this->_acl, $this->_auth));
         
         return $moduleLoader;
-
     }
     
     
     protected function _initNavigator()
     {
-        $this->bootstrap("layout");
-        $layout = $this->getResource("layout");
-        $view = $layout->getView();
-        
+		$this->bootstrap("layout");
+		$layout = $this->getResource("layout");
+		$view = $layout->getView();
+		
         $navContainerConfig = new Zend_Config_Xml(APPLICATION_PATH . "/configs/navigation.xml", "nav");
-        $navContainer = new Zend_Navigation($navContainerConfig);
-        
+		$navContainer = new Zend_Navigation($navContainerConfig);
+		
         $view->navigation($navContainer)->setAcl($this->_acl)->setRole(Zend_Registry::get("role"));
     }
     

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/OpenId
+END
+Consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/OpenId/Consumer.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/OpenId/Extension.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/OpenId/Exception.php
+END
+Provider.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/OpenId/Provider.php
+END

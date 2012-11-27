@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol/Smtp/Auth
+END
+Login.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol/Smtp/Auth/Login.php
+END
+Plain.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol/Smtp/Auth/Plain.php
+END
+Crammd5.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Mail/Protocol/Smtp/Auth/Crammd5.php
+END

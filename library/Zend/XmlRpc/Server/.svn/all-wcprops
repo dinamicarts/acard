@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Server
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Server/Exception.php
+END
+System.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Server/System.php
+END
+Fault.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Server/Fault.php
+END
+Cache.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/XmlRpc/Server/Cache.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/IpLocation
+END
+LocateIPResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/IpLocation/LocateIPResponse.php
+END
+IPAddressLocationType.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/IpLocation/IPAddressLocationType.php
+END
+RegionType.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/IpLocation/RegionType.php
+END
+LocateIPResponseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/IpLocation/LocateIPResponseType.php
+END
+GeoCoordinatesType.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/IpLocation/GeoCoordinatesType.php
+END
+CityType.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/IpLocation/CityType.php
+END

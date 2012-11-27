@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Request/SmsValidation
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Request/SmsValidation/Validate.php
+END
+SendValidationKeyword.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Request/SmsValidation/SendValidationKeyword.php
+END
+Invalidate.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Request/SmsValidation/Invalidate.php
+END
+GetValidatedNumbers.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Request/SmsValidation/GetValidatedNumbers.php
+END

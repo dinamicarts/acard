@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Validate/Db
+END
+RecordExists.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Validate/Db/RecordExists.php
+END
+NoRecordExists.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Validate/Db/NoRecordExists.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Validate/Db/Abstract.php
+END

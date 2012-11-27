@@ -33,7 +33,6 @@ Zend_Registry::set("config", new Zend_Config_Ini(APPLICATION_PATH . "/configs/co
 $writer = new Zend_Log_Writer_Stream(APPLICATION_PATH . "/../logs/" . date("Ymd") . ".log");
 Zend_Registry::set("log", new Zend_Log($writer));
 
-
 $application->bootstrap()
             ->run();
 

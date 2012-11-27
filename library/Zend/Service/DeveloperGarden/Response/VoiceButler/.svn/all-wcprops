@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/VoiceButler
+END
+NewCallSequencedResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/VoiceButler/NewCallSequencedResponse.php
+END
+VoiceButlerAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/VoiceButler/VoiceButlerAbstract.php
+END
+NewCallResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/VoiceButler/NewCallResponse.php
+END
+CallStatusResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/VoiceButler/CallStatusResponse.php
+END
+TearDownCallResponse.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/VoiceButler/TearDownCallResponse.php
+END
+CallStatus2Response.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Response/VoiceButler/CallStatus2Response.php
+END

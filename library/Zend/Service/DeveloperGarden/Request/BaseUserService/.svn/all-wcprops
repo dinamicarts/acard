@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Request/BaseUserService
+END
+GetQuotaInformation.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Request/BaseUserService/GetQuotaInformation.php
+END
+ChangeQuotaPool.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Request/BaseUserService/ChangeQuotaPool.php
+END
+GetAccountBalance.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/dinamicarts/!svn/ver/24/aCard/library/Zend/Service/DeveloperGarden/Request/BaseUserService/GetAccountBalance.php
+END
