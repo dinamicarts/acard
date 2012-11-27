@@ -1,4 +1,0 @@
-<br /><br />
-<div id="view-content">
-    <?= $this->partialLoop("users/partials/userRow.phtml", $this->utenti); ?>
-</div>

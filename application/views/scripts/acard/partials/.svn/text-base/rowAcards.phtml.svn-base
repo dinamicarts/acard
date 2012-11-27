@@ -1,5 +1,0 @@
-<tr>
-	<td><?= $this->ncard; ?></td>
-    <td><a href='<?= $this->baseUrl()?>/acard/movimenti/codcliente/<?= $this->codcliente; ?>'><?= $this->codcliente; ?></a></td>
-    <td><a href='<?= $this->baseUrl()?>/acard/movimenti/codcliente/<?= $this->codcliente; ?>'><?= $this->ragionesociale; ?></a></td>
-</tr>

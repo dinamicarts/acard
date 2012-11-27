@@ -4,7 +4,6 @@ README.txt
 demos/
 extras/documentation
 .DS_Store
-
-
 .buildpath
-
+.svn
+_upload

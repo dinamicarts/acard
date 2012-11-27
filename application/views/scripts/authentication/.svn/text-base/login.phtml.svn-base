@@ -1,5 +1,0 @@
-<br /><br />
-<div id="view-content">
-    <?=$this->form;?>
-
-</div>

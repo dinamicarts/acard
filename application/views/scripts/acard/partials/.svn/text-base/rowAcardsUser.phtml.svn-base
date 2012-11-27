@@ -1,5 +1,0 @@
-<tr>
-	<td><?= $this->ncard; ?></td>
-    <td><?= $this->codcliente; ?></td>
-    <td><?= $this->ragionesociale; ?></td>
-</tr>

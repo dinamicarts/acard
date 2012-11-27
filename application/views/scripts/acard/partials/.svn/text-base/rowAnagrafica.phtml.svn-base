@@ -1,8 +1,0 @@
-<tr>
-    <td><a href='<?= $this->baseUrl()?>/acard/movimenti/codcliente/<?= $this->codcliente; ?>'><?= $this->codcliente; ?></a></td>
-    <td><a href='<?= $this->baseUrl()?>/acard/movimenti/codcliente/<?= $this->codcliente; ?>'><?= $this->ragionesociale; ?></a></td>
-    <td><?= $this->datanascita; ?></td>
-    <td><?= $this->sesso; ?></td>
-    <td><?= $this->email; ?></td>
-    <td><?= $this->ncell; ?></td>
-<tr>
